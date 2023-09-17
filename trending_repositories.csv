@@ -1,0 +1,25 @@
+Repository,Description,Primary Programming Language,Stargazers,Forks,Stared Today
+https://github.com/apache/iotdb,Apache IoTDB,Java,"3,913",928,61
+https://github.com/godotengine/godot-demo-projects,Demonstration and Template Projects,GDScript,"3,759","1,327",93
+https://github.com/huggingface/transformers,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",Python,"111,900","22,225",53
+https://github.com/libre-tube/LibreTube,"An alternative frontend for YouTube, for Android.",Kotlin,"6,212",350,6
+https://github.com/AUTOMATIC1111/stable-diffusion-webui,Stable Diffusion web UI,Python,"102,252","20,397",114
+https://github.com/meshery/meshery,"Meshery, the cloud native manager",Go,"3,020","1,182",22
+https://github.com/airbnb/lottie-ios,An iOS library to natively render After Effects vector animations,Swift,"24,424","3,601",15
+https://github.com/emilk/egui,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,Rust,"16,443","1,178",14
+https://github.com/apache/superset,Apache Superset is a Data Visualization and Data Exploration Platform,TypeScript,"54,174","11,280",12
+https://github.com/makeplane/plane,"Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",TypeScript,"14,578",611,43
+https://github.com/coqui-ai/TTS,"- a deep learning toolkit for Text-to-Speech, battle-tested in research and production",Python,"15,224","1,964",164
+https://github.com/neonbjb/tortoise-tts,A multi-voice TTS system trained with an emphasis on quality,Jupyter Notebook,"9,075","1,324",20
+https://github.com/paradigmxyz/reth,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",Rust,"2,306",458,8
+https://github.com/AykutSarac/jsoncrack.com,"Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",TypeScript,"25,452","1,407",260
+https://github.com/paperless-ngx/paperless-ngx,"A community-supported supercharged version of paperless: scan, index and archive all your physical documents",Python,"9,886",522,31
+https://github.com/typeorm/typeorm,"ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",TypeScript,"32,079","5,976",6
+https://github.com/recloudstream/cloudstream,Android app for streaming and downloading media.,Kotlin,"4,415",377,13
+https://github.com/ant-design/ant-design-mobile,Essential UI blocks for building mobile web apps.,TypeScript,"11,129","2,266",1
+https://github.com/vuejs/core,"Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",TypeScript,"40,244","7,352",22
+https://github.com/localstack/localstack,A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline,Python,"48,463","3,671",8
+https://github.com/actions/runner-images,GitHub Actions runner images,PowerShell,"8,089","3,012",3
+https://github.com/microsoft/DeepSpeed,"DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",Python,"28,358","3,405",11
+https://github.com/cocos/cocos-engine,"Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",C++,"4,571","1,464",18
+https://github.com/appsmithorg/appsmith,"Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",TypeScript,"29,052","2,997",12
