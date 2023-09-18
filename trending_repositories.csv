@@ -1,25 +1,25 @@
 Repository,Description,Primary Programming Language,Stargazers,Forks,Stared Today
-https://github.com/apache/iotdb,Apache IoTDB,Java,"3,913",928,61
-https://github.com/godotengine/godot-demo-projects,Demonstration and Template Projects,GDScript,"3,759","1,327",93
-https://github.com/huggingface/transformers,"Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",Python,"111,900","22,225",53
-https://github.com/libre-tube/LibreTube,"An alternative frontend for YouTube, for Android.",Kotlin,"6,212",350,6
-https://github.com/AUTOMATIC1111/stable-diffusion-webui,Stable Diffusion web UI,Python,"102,252","20,397",114
-https://github.com/meshery/meshery,"Meshery, the cloud native manager",Go,"3,020","1,182",22
-https://github.com/airbnb/lottie-ios,An iOS library to natively render After Effects vector animations,Swift,"24,424","3,601",15
-https://github.com/emilk/egui,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native,Rust,"16,443","1,178",14
-https://github.com/apache/superset,Apache Superset is a Data Visualization and Data Exploration Platform,TypeScript,"54,174","11,280",12
-https://github.com/makeplane/plane,"Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",TypeScript,"14,578",611,43
-https://github.com/coqui-ai/TTS,"- a deep learning toolkit for Text-to-Speech, battle-tested in research and production",Python,"15,224","1,964",164
-https://github.com/neonbjb/tortoise-tts,A multi-voice TTS system trained with an emphasis on quality,Jupyter Notebook,"9,075","1,324",20
-https://github.com/paradigmxyz/reth,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",Rust,"2,306",458,8
-https://github.com/AykutSarac/jsoncrack.com,"Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",TypeScript,"25,452","1,407",260
-https://github.com/paperless-ngx/paperless-ngx,"A community-supported supercharged version of paperless: scan, index and archive all your physical documents",Python,"9,886",522,31
-https://github.com/typeorm/typeorm,"ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",TypeScript,"32,079","5,976",6
-https://github.com/recloudstream/cloudstream,Android app for streaming and downloading media.,Kotlin,"4,415",377,13
-https://github.com/ant-design/ant-design-mobile,Essential UI blocks for building mobile web apps.,TypeScript,"11,129","2,266",1
-https://github.com/vuejs/core,"Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",TypeScript,"40,244","7,352",22
-https://github.com/localstack/localstack,A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline,Python,"48,463","3,671",8
-https://github.com/actions/runner-images,GitHub Actions runner images,PowerShell,"8,089","3,012",3
-https://github.com/microsoft/DeepSpeed,"DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",Python,"28,358","3,405",11
-https://github.com/cocos/cocos-engine,"Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",C++,"4,571","1,464",18
-https://github.com/appsmithorg/appsmith,"Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",TypeScript,"29,052","2,997",12
+https://github.com/coqui-ai/TTS,"- a deep learning toolkit for Text-to-Speech, battle-tested in research and production",Python,"16,709","2,042","1,285"
+https://github.com/AUTOMATIC1111/stable-diffusion-webui,Stable Diffusion web UI,Python,"102,437","20,455",115
+https://github.com/godotengine/godot-demo-projects,Demonstration and Template Projects,GDScript,"3,869","1,336",65
+https://github.com/ripienaar/free-for-dev,"A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",HTML,"73,155","8,030",30
+https://github.com/SerenityOS/serenity,The Serenity Operating System,C++,"25,980","2,828",12
+https://github.com/Dimillian/IceCubesApp,A SwiftUI Mastodon client,Swift,"3,551",326,7
+https://github.com/shadcn-ui/taxonomy,"An open source application built using the new router, server components and everything new in Next.js 13.",TypeScript,"15,168","1,917",42
+https://github.com/neovim/neovim,Vim-fork focused on extensibility and usability,Vim Script,"69,486","4,872",46
+https://github.com/elebumm/RedditVideoMakerBot,Create Reddit Videos with just one command,Python,"5,505","1,537",6
+https://github.com/tiann/KernelSU,A Kernel based root solution for Android,Kotlin,"4,565","1,112",7
+https://github.com/immich-app/immich,Self-hosted photo and video backup solution directly from your mobile phone.,TypeScript,"18,543",746,37
+https://github.com/tailscale/tailscale,"The easiest, most secure way to use WireGuard and 2FA.",Go,"13,512",959,23
+https://github.com/invoke-ai/InvokeAI,"InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",TypeScript,"18,792","1,964",12
+https://github.com/godotengine/godot-cpp,C++ bindings for the Godot script API,C++,"1,074",377,53
+https://github.com/SoftEtherVPN/SoftEtherVPN,Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.,C,"10,450","2,471",6
+https://github.com/nextcloud/server,"Nextcloud server, a safe home for all your data",PHP,"23,763","3,697",9
+https://github.com/nvim-telescope/telescope.nvim,"Find, Filter, Preview, Pick. All lua, all the time.",Lua,"11,248",675,11
+https://github.com/DioxusLabs/dioxus,"Fullstack GUI library for desktop, web, mobile, and more.",Rust,"13,917",437,14
+https://github.com/0x192/universal-android-debloater,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",Rust,"11,340",697,22
+https://github.com/hyprwm/Hyprland,Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.,C++,"10,863",395,42
+https://github.com/NationalSecurityAgency/ghidra,Ghidra is a software reverse engineering (SRE) framework,Java,"42,703","5,187",51
+https://github.com/easydiffusion/easydiffusion,"Easiest 1-click way to create beautiful artwork on your PC using AI, with no tech knowledge. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",JavaScript,"7,731",644,11
+https://github.com/jellyfin/jellyfin,The Free Software Media System,C#,"24,842","2,270",21
+https://github.com/MarlinFirmware/Marlin,Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.,C++,"15,266","18,603",61
