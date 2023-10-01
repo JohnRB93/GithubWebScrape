@@ -1,0 +1,26 @@
+Sub ImportCSVData()
+    Dim CSVFilePath As String
+    Dim WS As Worksheet
+    
+    ' Set the path of the CSV file
+    CSVFilePath = "C:\Users\john_\projects\GithubWebScrape\trending_repositories.csv"
+    
+    ' Set the target worksheet
+    Set WS = ThisWorkbook.Worksheets("Data") ' Replace "Sheet1" with the actual sheet name
+    
+    ' Clear existing data in the worksheet
+    WS.UsedRange.Clear
+    
+    ' Import data from CSV file
+    With WS.QueryTables.Add(Connection:="TEXT;" & CSVFilePath, Destination:=WS.Range("A1"))
+        .TextFileParseType = xlDelimited
+        .TextFileCommaDelimiter = True ' Set the delimiter based on your CSV file
+        .Refresh
+    End With
+    
+    ' Refresh all PivotTables (if any)
+    ThisWorkbook.RefreshAll
+    
+    ' Close the connection to the CSV file
+    WS.QueryTables(1).Delete
+End Sub
